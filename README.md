@@ -18,7 +18,7 @@ below:
 
 If you do not see the output above, run the above command in verbose mode as below
 
-  `./get_id_token.sh -b 'https://mmc-sushantsonker.okta.com' -c 0oaq2rcmlHSadgXaD4x6  -u sushant.sonker@mmc.com -p Rua46llaa -o 'https://example.net/your_application' -v`
+  `./get_id_token.sh -b 'https://mmc-sushantsonker.okta.com' -c 0oaq2rcmlHSadgXaD4x6  -u sushant.sonker@mmc.com -p <password> -o 'https://example.net/your_application' -v`
   
  You will see output as below. Extract the id_token from the same
  
